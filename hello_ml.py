@@ -1,4 +1,7 @@
-"""Environment verification script. Confirms that the core ML libraries import correctly and prints their versions. """ 
+"""
+Environment verification script. 
+Confirms that the core ML libraries import correctly and prints their versions. 
+""" 
 
 import sys 
 import sklearn 
